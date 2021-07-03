@@ -8,7 +8,7 @@ p{
 h1{
     font-size: 45px;
 }
-#s1{
+span{
     color: orangered;
 }
 section{
@@ -34,4 +34,20 @@ padding-left: 60px;
 #top-banner{
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
+}
+.for-hw2{
+    width: 50%;
+    padding-right: 10%;
+}
+.for-hw2 img{
+    width: 90%;
+    margin-top: 40px;
+    padding-right: 60%;
+    padding-left: 10%;
+}
+#middle-banner{
+    margin-top: 40px;
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
 }
