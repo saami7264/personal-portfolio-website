@@ -8,6 +8,9 @@ p{
 h1{
     font-size: 45px;
 }
+h2{
+    font-size: 30px;
+}
 span{
     color: orangered;
 }
@@ -50,4 +53,34 @@ padding-left: 60px;
     background-image: url(images/dream-bg.png);
     background-repeat: no-repeat;
     background-position: right;
+}
+#experiences{
+    padding-top: 100px;
+}
+.for-hw3{
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-bottom: 5%;
+    padding-top: 5px;
+    padding-left: 40px;
+    padding-right: 30px;
+    padding-bottom: 60px;
+    box-shadow: 10px 10px 60px gray;
+}
+#bottom-banner{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+}
+#orangered{
+    border-left: orangered solid 8px;
+}
+#gradient{
+   border-right: 8px solid;
+   border-image: linear-gradient(blue, cyan);
+   border-image-slice: 2;
+}
+#footer{
+    text-align: center;
+    color: gray;
 }
